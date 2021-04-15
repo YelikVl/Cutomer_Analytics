@@ -1,5 +1,4 @@
-# Other_Projects
- Data science and analytics projects 
+# Проекты по клиентской аналитике
 
 <b>1. Cutomer Analytics segmentation:</b>
 Имеются данные о клиентах сети магазинов (2000 строк)
